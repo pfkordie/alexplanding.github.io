@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <nav class="navigation"></nav>
+        <ul>
+            <li>Bio</li>
+            <li>Projects</li>
+            <li>socials</li>
+            <li>resume</li>
+        </ul>
+</nav>
+    <body>
+        <link href='style.css' rel='stylesheet'>
+    
+<header>
+    <h1>Alex Pena's Portfolio</h1>
+</header>
+    <meta charset="UTF-8" />
+    <title>title</title>
+</head>
+<body>
+    
+</body>
+</html>
